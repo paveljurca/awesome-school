@@ -14,7 +14,7 @@ když nevíte co s ní.
 
 ## (init, commit 972a4eaaf498d92824584a04bb48f70f87be5b57, Pavel Jurca)
 
-Did we moved from [blank generation](https://en.wikipedia.org/wiki/The_Blank_Generation) to just `_blank` generation?
+Did we moved from the [blank generation](https://en.wikipedia.org/wiki/The_Blank_Generation) to just a `_blank` generation?
 
 ***
 
