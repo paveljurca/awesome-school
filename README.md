@@ -12,7 +12,7 @@ Každá informace je trochu zbytečná,
 když nevíte co s ní.
 -->
 
-## (init, commit 972a4eaaf498d92824584a04bb48f70f87be5b57, Pavel Jurca)
+## (init, commit 972a4eaaf498d92824584a04bb48f70f87be5b57)
 
 Did we moved from the [blank generation](https://en.wikipedia.org/wiki/The_Blank_Generation) to just a `_blank` generation?
 
@@ -21,6 +21,11 @@ Did we moved from the [blank generation](https://en.wikipedia.org/wiki/The_Blank
 ### [BOOK NOTES](observanda.html)
 
 ### [Twitter list](https://twitter.com/paveljurca/lists/edu)
+
+## @
+
+TODO
+
 
 ### Links
 
