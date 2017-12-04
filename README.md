@@ -12,26 +12,21 @@ Každá informace je trochu zbytečná,
 když nevíte co s ní.
 -->
 
-## (init, commit 972a4eaaf498d92824584a04bb48f70f87be5b57)
-
 Did we moved from the [blank generation](https://en.wikipedia.org/wiki/The_Blank_Generation) to just a `_blank` generation?
-
-***
 
 ### [BOOK NOTES](observanda.html)
 
 ### [Twitter list](https://twitter.com/paveljurca/lists/edu)
 
-## @
-
-TODO
-
-
 ### Links
 
 ..coming up (as I'm going to actually move it back from my del.icio.us and getpocket)
 
-### @
+## @
+
+
+
+***
 
 Komenského cesta ke světlu byla skrze postupné
 poznávání, pampaedii spolu s pansofií se
